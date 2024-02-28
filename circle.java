@@ -1,6 +1,6 @@
 public class circle {
     public static void main(String[]args){
-        double radius = 4.27783;
+        double radius = 4.28;
         double area = Math.PI*(radius*radius);
         double circumference = Math.PI*(2*radius);
         System.out.print("The area of the circle is ");
